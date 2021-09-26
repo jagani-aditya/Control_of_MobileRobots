@@ -1,3 +1,7 @@
 # Control of Mobile Robots
 
-## Background
+## Project Desciption
+
+## Platform
+
+## Implementation
