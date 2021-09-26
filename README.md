@@ -1,1 +1,3 @@
-# Control_of_MobileRobots
+# Control of Mobile Robots
+
+## Background
