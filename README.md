@@ -51,5 +51,7 @@ In this module we achieve navigation through the obstacle course:
 ![Autonomous Mobile Robot Navigation using Sliding Control](/Media/Controls1.gif)
 
 ## Platform
+* MATLAB
 
 ## Implementation
+Navigate to  ``` Week7 ``` folder in MATLAB and type in MATLAB terminal ``` launch ```  
