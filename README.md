@@ -1,4 +1,4 @@
-# Control of Mobile Robots
+# Sliding Mode Control
 
 ## Project Desciption
 
